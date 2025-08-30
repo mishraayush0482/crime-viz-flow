@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Crime Map Theme Colors
+				danger: 'hsl(var(--danger))',
+				safe: 'hsl(var(--safe))',
+				warning: 'hsl(var(--warning))',
+				surface: {
+					DEFAULT: 'hsl(var(--surface))',
+					elevated: 'hsl(var(--surface-elevated))',
+					overlay: 'hsl(var(--surface-overlay))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
